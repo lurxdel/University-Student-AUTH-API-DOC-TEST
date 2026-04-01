@@ -9,7 +9,9 @@ This project is a secured REST API for a Student Management System, built using 
 - **Logging & Debugging:** Implementation of server-side logging to track API access and monitor system activities.
 
 ## Guide To Run
-To run the system locally, follow these steps:
+To run the system locally, do the following.
+> - **Clone this repository** or download it as a **ZIP file.**
+> - When cloning the repository, follow these steps.
 
 ### 1. Install Python
 - Ensure you have Python installed. You can download it from [Python.org](https://www.python.org/).
@@ -45,14 +47,15 @@ The backend will be running at `http://127.0.0.1:8000/`.
 - **Token Refresh:** `http://127.0.0.1:8000/api/token/refresh/`
 - **Swagger Documentation:** `http://127.0.0.1:8000/swagger/`
 
-### Acknowledgment
-Special thanks to our instructors for their guidance on building secure and well-documented APIs.
 
-This project is part of my learning journey in advanced web development and API security.
+### Acknowledgment  
+We are grateful to our instructors for their guidance and support throughout the development of this project. 
 
-## Disclaimer
-<div align="center">
-  I do not own the images, names, information, or references included in this project; they are used purely as placeholders for educational purposes. <br>
+This work reflects my learning journey as a programmer.
+
+## Disclaimer 
+<div align="center"> 
+  I do not own the images, names, information or references included in this project they are used purely as placeholders. <br> 
   All trademarks, service marks, trade names, and other intellectual property rights belong to their respective owners.  <br><br>
 
   Made with 💗 by <a href="https://github.com/lurxdel"><strong>Lurxdel</strong></a>
