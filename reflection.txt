@@ -1,6 +1,7 @@
-In this lab activity, I successfully implemented JWT authentication, API documentation, and logging for the Student Management System REST API.
-I learned how to secure sensitive endpoints using djangorestframework-simplejwt, ensuring that only authenticated users can access the student data.
-Additionally, I integrated drf-yasg to generate professional Swagger documentation, which significantly simplified the process of testing and interacting with the API endpoints.
-Adding logging to the viewsets provided valuable insights into application flow and aided in the debugging process.
-This activity underscored the importance of security and documentation in developing reliable and maintainable backend systems.
-Overall, the experience enhanced my understanding of modern API development practices and the role of third-party packages in extending Django's capabilities.
+In this lab activity, I was able to successfully integrate JWT-based user authentication, API documentation, and logging for the Student Management
+System API. I was able to learn how to effectively protect critical API endpoints using djangorestframework-simplejwt, thereby allowing only authenticated users
+to have access to the student data. I was also able to integrate drf-yasg for generating Swagger API documentation, thus making
+it easier to test API endpoints. Adding logging to viewsets was beneficial in providing insights into how an application works. This
+activity was crucial in demonstrating the significance of security and API documentation in developing reliable backend systems. This activity was beneficial
+in providing insights into how to effectively develop backend systems using modern API development techniques and how third-party libraries can be
+utilized to enhance Django's capabilities.
