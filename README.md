@@ -47,6 +47,16 @@ The backend will be running at `http://127.0.0.1:8000/`.
 - **Token Refresh:** `http://127.0.0.1:8000/api/token/refresh/`
 - **Swagger Documentation:** `http://127.0.0.1:8000/swagger/`
 
+### Screenshots
+
+- **Swagger**
+<img width="1920" height="1876" alt="Image" src="https://github.com/user-attachments/assets/dd4f18fb-9f4b-45c1-ad86-b96ad9467425" />
+
+- **Postman POST**
+<img width="959" height="505" alt="Image" src="https://github.com/user-attachments/assets/1e427bde-72e6-4e45-b217-6f687d82594a" />
+
+- **Postman API TOKEN**
+<img width="960" height="504" alt="Image" src="https://github.com/user-attachments/assets/9b9a7974-5c87-420b-bc7f-3705ca9bd073" />
 
 ### Acknowledgment  
 We are grateful to our instructors for their guidance and support throughout the development of this project. 
